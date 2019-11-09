@@ -1,0 +1,4 @@
+dgit clone git@github.com:QueenMari/assets.git
+cd assets
+git branch <QueenMari>
+git checkout <QueenMari>
